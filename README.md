@@ -19,6 +19,7 @@ This repository showcases my certifications, workshop participation, and hackath
 - 🥈 Secured 2nd position in internal hackathon (among 20+ teams)
 - Built and presented a working solution under time constraints
 - Improved problem decomposition, teamwork, and presentation skills
+
 📷 Certificate:  
 ![Internal Hackathon](./internal%20hackathon%20certificate.png)
 
