@@ -40,7 +40,7 @@ This repository contains my certifications, workshop participation, and hackatho
 - Worked on data analytics business scenarios  
 - Learned real-world data analysis techniques  
 📷 Certificate:
-![Deloitte Certificate](./Deloitte-Certificate.jpg)
+![Deloitte Certificate](./Deloitte-certificate.jpg)
 
 ---
 
