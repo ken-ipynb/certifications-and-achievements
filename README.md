@@ -33,7 +33,7 @@ This repository showcases my certifications, workshop participation, and hackath
 - Gained experience in structured problem-solving and collaboration  
 
 📷 Certificate:  
-![SIH Certificate](./sih-2025-certificate.png)
+![SIH Certificate](./SiH25-certificate.png)
 
 ---
 
@@ -45,7 +45,7 @@ This repository showcases my certifications, workshop participation, and hackath
 - Gained hands-on exposure to AI-based tools and concepts  
 
 📷 Certificate:  
-![AI Workshop](./iit-delhi-ai-workshop.png)
+![AI Workshop](./Trst2025.png)
 
 ---
 
@@ -55,7 +55,7 @@ This repository showcases my certifications, workshop participation, and hackath
 - Learned data interpretation, insights generation, and analytical thinking  
 
 📷 Certificate:  
-![Deloitte Certificate](./deloitte-data-analytics.jpg)
+![Deloitte Certificate](./Deloitte%20certificate.jpg)
 
 ---
 
