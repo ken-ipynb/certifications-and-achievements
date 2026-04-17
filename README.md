@@ -1,4 +1,8 @@
-# 📜 Certifications & Achievements
+## 📄 Professional Resume
+**[📥 Download My Resume](https://github.com/ken-ipynb/resume)**
+
+---
+## 📜 Certifications & Achievements
 
 ## 🔍 Overview
 This repository showcases my certifications, workshop participation, and hackathon achievements. These experiences reflect my continuous learning journey in Data Science, Artificial Intelligence, and problem-solving through real-world exposure and competitions.
