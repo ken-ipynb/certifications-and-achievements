@@ -20,7 +20,7 @@ This repository showcases my certifications, workshop participation, and hackath
 - Built and presented a working solution under time constraints
 - Improved problem decomposition, teamwork, and presentation skills
 📷 Certificate:  
-![Internal Hackathon](./internal-hackathon-certificate.jpg)
+![Internal Hackathon](./internal%20hackathon%20certificate.png)
 
 ---
 
