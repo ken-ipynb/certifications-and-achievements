@@ -16,13 +16,11 @@ This repository showcases my certifications, workshop participation, and hackath
 ## 🏆 Hackathons & Achievements
 
 ### 🔹 Internal College Hackathon
-- 🥈 Secured **2nd position** among 20+ participating teams  
-- Reached **Round 3** of the competition  
-- Built teamwork, ideation, and rapid problem-solving skills under time constraints  
-- Improved ability to design and present solutions effectively  
-
+- 🥈 Secured 2nd position in internal hackathon (among 20+ teams)
+- Built and presented a working solution under time constraints
+- Improved problem decomposition, teamwork, and presentation skills
 📷 Certificate:  
-![Internal Hackathon](./internal-hackathon-certificate.png)
+![Internal Hackathon](./internal-hackathon-certificate.jpg)
 
 ---
 
@@ -70,12 +68,15 @@ This repository showcases my certifications, workshop participation, and hackath
 
 ---
 
-## 📈 Currently Learning
-- Data Science with Python  
-- Machine Learning fundamentals  
-- Power BI dashboard building  
-- Advanced problem-solving for hackathons  
-- Preparing for SIH and technical competitions  
+## 🎯 Focus Areas
+- Artificial Intelligence & Machine Learning fundamentals  
+- Data Analysis and Visualization  
+- Hackathon-based problem solving  
+- Real-world project exposure through simulations and workshops
+  --- 
+
+ ## 🚀 Career Goals
+I am currently building skills in Data Science and AI Engineering through certifications, hackathons, and hands-on learning. My goal is to develop strong problem-solving abilities and contribute to real-world AI-driven solutions.
 
 ---
 
