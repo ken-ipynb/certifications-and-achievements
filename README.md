@@ -2,7 +2,7 @@
 
 ## 🔍 Overview
 
-This repository showcases my certifications, workshops, and hackathon experiences in **Artificial Intelligence, Machine Learning, and Data Analytics**. These experiences have helped me strengthen my technical skills, improve my problem-solving abilities, and gain practical exposure to real-world AI applications.
+This repository showcases my certifications, workshops, and hackathon experiences in **Artificial Intelligence, Machine Learning, Data Analytics, and related technologies**. These experiences have helped me strengthen my technical skills, improve my problem-solving abilities, and gain practical exposure to real-world technologies and applications.
 
 ---
 
@@ -12,6 +12,7 @@ This repository showcases my certifications, workshops, and hackathon experience
 * 🎯 **Smart India Hackathon (SIH 2025)** – Qualified for Round 1
 * 🤖 **AI & Generative AI Workshop** – Tryst 2025, IIT Delhi
 * 📊 **Deloitte Data Analytics Virtual Experience Program**
+* 🤖 **Machine Learning & Artificial Intelligence Fundamentals** – DataCamp
 
 ---
 
@@ -42,6 +43,39 @@ This repository showcases my certifications, workshops, and hackathon experience
 ---
 
 ## 🎓 Certifications
+
+### 🔹 Understanding Machine Learning — DataCamp
+
+* Completed an introduction to fundamental Machine Learning concepts
+* Explored the core ideas and applications of Machine Learning
+* ⏱️ **Duration:** 2 Hours
+* 📅 **Completed:** August 2, 2026
+
+📄 **Certificate:** [View Certificate](./Understanding_Machine_Learning_DataCamp.pdf)
+
+---
+
+### 🔹 Understanding Artificial Intelligence — DataCamp
+
+* Learned fundamental concepts and applications of Artificial Intelligence
+* Developed a foundational understanding of modern AI technologies
+* ⏱️ **Duration:** 2 Hours
+* 📅 **Completed:** September 1, 2026
+
+📄 **Certificate:** [View Certificate](./Understanding_Artificial_Intelligence_DataCamp.pdf)
+
+---
+
+### 🔹 Introduction to Git — DataCamp
+
+* Learned the fundamentals of Git and version control
+* Explored essential Git workflows for managing projects
+* ⏱️ **Duration:** 2 Hours
+* 📅 **Completed:** August 15, 2026
+
+📄 **Certificate:** [View Certificate](./Introduction_to_Git_DataCamp.pdf)
+
+---
 
 ### 🔹 AI & Generative AI Workshop — Tryst 2025 (IIT Delhi)
 
