@@ -13,6 +13,9 @@ A collection of my certifications, workshops, hackathons, and achievements in **
 * 🤖 **AI & Generative AI Workshop** – IIT Delhi
 * 📊 **Deloitte Data Analytics Virtual Experience**
 * 🎓 **DataCamp AI & ML Certifications**
+* 🇮🇳 **Build With Bharat 2.0** – National-Level Hackathon
+* 💻 **NexHack 2.0** – National-Level Hackathon
+* 🤖 **Getting Started with Artificial Intelligence** – IBM SkillsBuild
 
 ---
 
@@ -34,7 +37,33 @@ Qualified for **Round 1**.
 
 ---
 
+### 🇮🇳 Build With Bharat 2.0
+
+Participated in the **PPT Submission Round** of this national-level hackathon under Team **3secondscode**. The event took place on **13–14 September 2026** at NIT Delhi.
+
+![Build With Bharat 2.0 Participation Certificate](./build-with-bharat-2.0-participation.png)
+
+---
+
+### 💻 NexHack 2.0
+
+Participated in this national-level **36-hour hackathon**, organized by NexVerse IITM in collaboration with the Department of Computer Science.
+
+![NexHack 2.0 Participation Certificate](./nexhack-2.0-participation.jpeg)
+
+---
+
 ## 🎓 Certifications
+
+### 🤖 Getting Started with Artificial Intelligence — IBM SkillsBuild
+
+**Issued:** October 8, 2026
+
+![IBM SkillsBuild AI Certificate](./ibm-getting-started-with-ai.png)
+
+[Verify Certificate](https://www.credly.com/badges/5c0e4ff3-c516-45bf-a51b-50d3b3b9ea90)
+
+---
 
 ### 🤖 Understanding Machine Learning — DataCamp
 
@@ -81,4 +110,5 @@ Machine Learning • Deep Learning with PyTorch • MLOps • Model Deployment
 ## 🤝 Connect
 
 **GitHub:** https://github.com/ken-ipynb
+
 **LinkedIn:** https://www.linkedin.com/in/pradeep-pandey-62a582325/
