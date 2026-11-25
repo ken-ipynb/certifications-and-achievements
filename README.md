@@ -16,6 +16,7 @@ A collection of my certifications, workshops, hackathons, and achievements in **
 * 🇮🇳 **Build With Bharat 2.0** – National-Level Hackathon
 * 💻 **NexHack 2.0** – National-Level Hackathon
 * 🤖 **Getting Started with Artificial Intelligence** – IBM SkillsBuild
+* 🧠 **AI & Machine Learning Internship** – InAmigos Foundation
 
 ---
 
@@ -98,6 +99,23 @@ Participated in this national-level **36-hour hackathon**, organized by NexVerse
 ### 📊 Deloitte Data Analytics Virtual Experience Program
 
 ![Deloitte Certificate](./Deloitte%20certificate.jpg)
+
+---
+
+### 🧠 AI & Machine Learning Internship — InAmigos Foundation
+
+**Duration:** October 17–30, 2026  
+**Issued:** November 22, 2026
+
+Successfully completed an AI & Machine Learning Internship at InAmigos Foundation.
+
+**Certificate of Internship**
+
+![InAmigos AI & ML Internship Certificate](./Pradeep_Pandey_Internship_Certificate.png)
+
+**Certificate of Appreciation**
+
+![InAmigos Certificate of Appreciation](./Pradeep_Pandey_Certificate_of_Appreciation.png)
 
 ---
 
